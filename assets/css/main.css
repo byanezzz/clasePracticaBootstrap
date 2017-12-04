@@ -1,0 +1,11 @@
+.br-0 {
+  border-radius: 0px;
+}
+.mg-b {
+  margin-bottom: 20px;
+}
+section>h2 {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 0.5em;
+  margin-bottom: 1em;
+}
